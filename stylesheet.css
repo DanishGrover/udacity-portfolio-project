@@ -1,0 +1,56 @@
+.container{
+	padding: 1% 8% 1% 8%;
+}
+.head{
+	padding-top: 20px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.logo{
+	width: 30%;
+                     text-align: left;
+}
+.headtext{
+	padding-top: 25px;
+	width: 70%;
+	text-align: right;
+}
+h1{
+	color: black;
+	text-transform: uppercase;
+	font-size: 3em;
+    font-weight: normal;
+	margin-bottom: 0px;
+	margin-top: 0px;
+  }
+h4{
+	color: black;
+	font-size: 2em;
+	margin-top: 5px;	
+}
+.cover{
+	padding-top: 20px;
+	width: 100%;
+}
+.details{
+	display: flex;
+	flex-wrap: wrap;
+	box-sizing: border-box;
+}
+h2{
+	font-size: 2em;
+	color: black;
+}
+.items{
+	padding: 0 8px;
+	text-align: center;
+	box-sizing: border-box;
+	width: 33.33%;
+}
+.pic{
+	width: 100%;
+}
+a{
+	text-decoration: none;
+	color: #db0030;
+}

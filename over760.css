@@ -1,0 +1,59 @@
+body {
+    background-color: #004d98;
+}
+.logo {
+    padding-top: 20px;
+    text-align: center;
+	width: 100%;
+}
+p{
+	 text-align: center;
+}
+hr{
+	height: 2.5px;
+	border-color: #a50044;
+	background-color: #a50044;
+}
+ .headtext {
+    text-align: center;
+  }
+ h1{
+	color: black;
+	text-transform: uppercase;
+	font-size: 2.5em;
+    font-weight: normal;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+h4{
+	color: black;
+	font-size: 1.5em;
+	margin-top: 5px;
+}
+.details{
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+}
+.items, .pic{
+	margin-left:auto;
+	margin-right:auto;
+}
+.cover{
+	padding-top: 20px;
+	width: 100%;
+}
+.pic{
+	width: 100%;
+}
+a{
+	text-decoration: none;
+	color: #db0030;
+}
+
+h2{
+	font-size: 2em;
+	color: black;
+	text-align: center;
+}  
